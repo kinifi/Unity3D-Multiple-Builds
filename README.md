@@ -2,12 +2,10 @@ Unity3D-Multiple-Builds
 =======================
 
 Important Notes: 
-- *This is being developed and is not functional yet. This message will be removed when its functional.*
+- *This is being developed and is not complete. There are bugs*
 
 Summary:
 This is an extension made to make multiple builds at once in the Unity 3D editor. 
-
-![alt text](http://i.imgur.com/hb7tYJf.png "Preview of Editor")
 
 Requirements: 
 - Unity Pro
@@ -15,3 +13,5 @@ Requirements:
 Installations Instructions: 
 - Download the single script and put it in a folder called "Plugins".
 
+Bugs: 
+- Nothing Builds Right now
